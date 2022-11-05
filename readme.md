@@ -2,6 +2,10 @@
 
 - This is a Palindrome Checker app.
 
+[Netlify](https://palindrome-checker-harshcodes.netlify.app/)
+
+![](https://img.shields.io/badge/Netlify-Link-green)
+
 ![Palindrome Checker](/image/palindrome-checker.png)
 
 ---
